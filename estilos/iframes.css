@@ -1,0 +1,26 @@
+@charset "UTGF-8";
+
+* {
+  margin:0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+}
+
+img {
+  width: 93vw;
+}
+
+a {
+  display: block;
+  background-color: darkred;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 1.5em;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: red;
+}
