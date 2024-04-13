@@ -17,3 +17,18 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+
+main {
+  height: 100vh;
+  position: relative;
+}
+
+section#celular{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 627px;
+  transform: translate(-50%, -50%);
+  width: 311px;
+  background: url(../imagens/frame-iphone.png) no-repeat;
+}
